@@ -1,0 +1,4 @@
+interface:
+  display_name: "Responses Image Generation"
+  short_description: "Generate and save local image assets from prompts"
+  default_prompt: "Use $responses-image-generation to generate and save a local image asset from a prompt or reference image."
